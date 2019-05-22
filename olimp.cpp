@@ -16,4 +16,11 @@ else if (C >= A && C >= B && A >= B) {
 else if (C >= A && B >= A && B >= C) {
         cout << C << endl;
     }
+else if (C >= A && C >= B && B >= A) {
+        cout << B << endl;
+    }
+
+    return 0;
+}
+
 	
