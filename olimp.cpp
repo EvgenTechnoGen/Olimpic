@@ -13,4 +13,7 @@ int main() {
 else if (C >= A && C >= B && A >= B) {
         cout << A << endl;
     }
+else if (C >= A && B >= A && B >= C) {
+        cout << C << endl;
+    }
 	
