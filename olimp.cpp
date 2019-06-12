@@ -20,6 +20,7 @@ else if (C >= A && C >= B && B >= A) {
         cout << B << endl;
     }
 
+	system("pause");
     return 0;
 }
 
